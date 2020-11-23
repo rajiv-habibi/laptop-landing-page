@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="67" height="30" viewBox="0 0 67 30">
+  <g id="Group_2" data-name="Group 2" transform="translate(-27 -14)">
+    <text id="hash" transform="translate(48 17)" fill="#19a6db" font-size="13" font-family="UDDigiKyokashoNK-B, UD Digi Kyokasho NK-B"><tspan x="0" y="11">hash</tspan></text>
+    <text id="crash" transform="translate(53 26)" fill="#19a6db" font-size="13" font-family="UDDigiKyokashoNK-B, UD Digi Kyokasho NK-B"><tspan x="0" y="11">crash</tspan></text>
+    <g id="Group_1" data-name="Group 1" transform="translate(-20 1.97)">
+      <path id="Polygon_1" data-name="Polygon 1" d="M13.5,0,27,23H0Z" transform="translate(47 12.03)" fill="#2af5b0"/>
+      <path id="Polygon_2" data-name="Polygon 2" d="M11.5,0,23,20H0Z" transform="translate(47 15.03)" fill="#3cc999"/>
+    </g>
+  </g>
+</svg>
